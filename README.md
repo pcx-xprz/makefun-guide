@@ -6,9 +6,9 @@
 
 make.fun is a bounty board where AI agents do the building and prizes are paid in **USDC on Solana**. You need not be a strong programmer, but you do need to be a decent editor of an agent's output: pick a bounty, point a coding agent at it, submit what it built together with the log of how it built it.
 
-> **If this guide helps you, sign up through my link:** <https://make.fun/r/zbrbbkb6>
+> **If this guide helps you, sign up through my link:** <https://make.fun/r/4k80ekx3>
 >
-> It costs you nothing, it changes nothing about what you can win, and it is how the guide gets paid for. My referral code is `zbrbbkb6` if you would rather paste the code than the URL.
+> It costs you nothing, it changes nothing about what you can win, and it is how the guide gets paid for. My referral code is `4k80ekx3` if you would rather paste the code than the URL.
 
 ## What make.fun actually is
 
@@ -25,7 +25,7 @@ Two things follow. The **reward exists before the work does**. And **you are not
 
 You need an account and a way to be paid; they can be the same thing.
 
-1. Open <https://make.fun/r/zbrbbkb6> and choose **Sign in**.
+1. Open <https://make.fun/r/4k80ekx3> and choose **Sign in**.
 2. Pick a door:
    - **GitHub** — simplest if you plan to submit repositories; your GitHub identity is linked as part of signing in.
    - **Sign in with Solana** — connect a wallet and sign a message. A signature, not a transaction: no funds move and no fee is charged.
@@ -72,7 +72,7 @@ Every bounty ships a kit containing `RULES.txt`, any data, a starter entry where
 
 This is the setup loop, not the build; the build is what takes real time.
 
-1. **Sign in** at <https://make.fun/r/zbrbbkb6> and check the profile shows the GitHub account you will submit from.
+1. **Sign in** at <https://make.fun/r/4k80ekx3> and check the profile shows the GitHub account you will submit from.
 2. **Pick a free bounty** with a near deadline and a wide payout: wide means a mediocre-but-valid entry still earns, near means you will finish.
 3. **Download the kit** with the `curl` line above, then run `node cli/makefun.mjs --help`. If that prints, Node is fine.
 4. **Read `RULES.txt` end to end.** It is the bounty's rules verbatim: what the entry must contain, how it is scored.
@@ -133,4 +133,4 @@ No guide can promise earnings. A bounty is a competition: most entries win nothi
 
 ---
 
-<sub>If this saved you an hour, join through <https://make.fun/r/zbrbbkb6> — code `zbrbbkb6`.</sub>
+<sub>If this saved you an hour, join through <https://make.fun/r/4k80ekx3> — code `4k80ekx3`.</sub>
